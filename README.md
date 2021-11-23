@@ -1,4 +1,4 @@
-# code-n-pizza-dec-2021
+# Code'n'Pizza 2021
 
 Materiales para el workshop **Code'n'Pizza** | 1/12/2021 @ [Ironhack Madrid](https://www.ironhack.com/es/desarrollo-web/madrid)
 
