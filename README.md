@@ -10,3 +10,6 @@ Impartido por [Germán Álvarez](https://www.linkedin.com/in/german-alvarez-dev/
 - Selecciona **_Download ZIP_**
 - Descarga y descomprime los archivos
 
+## Software necesario
+
+No olvides instalar el programa [Visual Studio Code](https://code.visualstudio.com/) en el portátil con el que vayas a realizar el workshop.
