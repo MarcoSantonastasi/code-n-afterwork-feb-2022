@@ -1,8 +1,6 @@
 # Code'n'Pizza 2021
 
-Materiales para el workshop presencial **Code'n'Pizza**
-
-Impartido por [Germán Álvarez](https://www.linkedin.com/in/german-alvarez-dev/) @ [Ironhack Madrid](https://www.ironhack.com/es/desarrollo-web/madrid)
+Producto final | workshop presencial **Code'n'Pizza** impartido por [Germán Álvarez](https://www.linkedin.com/in/german-alvarez-dev/) @ [Ironhack Madrid](https://www.ironhack.com/es/desarrollo-web/madrid)
 
 ## Cómo descargar los archivos
 
@@ -10,6 +8,12 @@ Impartido por [Germán Álvarez](https://www.linkedin.com/in/german-alvarez-dev/
 - Selecciona **_Download ZIP_**
 - Descarga y descomprime los archivos
 
-## Software necesario
+## Visualización del producto
 
-No olvides instalar el programa [Visual Studio Code](https://code.visualstudio.com/) en el portátil con el que vayas a realizar el workshop.
+Simplemente abre el archivo `index.html` en tu navegador Chrome.
+
+## Enlaces de interés
+
+El producto ha sido enriquecido con:
+- Tipografías personalizadas de [Google Fonts](https://fonts.google.com/)
+- Efectos de revelado con [Scroll Reveal](https://scrollrevealjs.org/)
