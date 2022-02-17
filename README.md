@@ -1,6 +1,9 @@
-# Code'n'Pizza 2021
+# Code'n'Afterwork 2022
 
-Producto final | workshop presencial **Code'n'Pizza** impartido por [Germán Álvarez](https://www.linkedin.com/in/german-alvarez-dev/) @ [Ironhack Madrid](https://www.ironhack.com/es/desarrollo-web/madrid)
+Producto final | workshop presencial **Code'n'Afterwork** impartido por
+[Marco Santonastasi](https://www.linkedin.com/in/marcosantonastasi/) @ [Ironhack Barcelona](https://www.ironhack.com/es/desarrollo-web/barcelona)
+
+Bajado interamente en codigo de [Germán Álvarez](https://www.linkedin.com/in/german-alvarez-dev/) @ [Ironhack Madrid](https://www.ironhack.com/es/desarrollo-web/madrid)
 
 ## Cómo descargar los archivos
 
